@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_blocks_faqs",
+  "info": {
+    "displayName": "FAQ",
+    "icon": "quote",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "FAQ": {
+      "displayName": "faq",
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.faq"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

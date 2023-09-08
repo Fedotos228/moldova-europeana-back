@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_progresses",
+  "info": {
+    "displayName": "Progress",
+    "icon": "attachment",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "progress": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.progress-item"
+    },
+    "title": {
+      "type": "string"
+    }
+  }
+}

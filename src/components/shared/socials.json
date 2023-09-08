@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_shared_socials",
+  "info": {
+    "displayName": "Socials",
+    "icon": "twitter"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "href": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

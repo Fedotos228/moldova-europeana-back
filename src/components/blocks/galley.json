@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_blocks_galleys",
+  "info": {
+    "displayName": "Gallery",
+    "icon": "landscape",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "videos": {
+      "type": "component",
+      "repeatable": true,
+      "component": "shared.video-gallery"
+    }
+  }
+}

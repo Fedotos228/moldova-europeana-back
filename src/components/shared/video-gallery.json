@@ -1,0 +1,24 @@
+{
+  "collectionName": "components_shared_video_galleries",
+  "info": {
+    "displayName": "VideoGallery",
+    "icon": "play"
+  },
+  "options": {},
+  "attributes": {
+    "video": {
+      "allowedTypes": [
+        "videos"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "thumbnail": {
+      "allowedTypes": [
+        "images"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
